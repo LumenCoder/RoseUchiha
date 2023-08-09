@@ -4,15 +4,6 @@
   /*  Colors  */
   --youtube: #ff0000;
   --youtube2: #ff0000;
-  --instagram: #e1306c;
-  --instagram_gradient: radial-gradient(
-    circle at 30% 107%,
-    #fdf497 0%,
-    #fdf497 5%,
-    #fd5949 45%,
-    #d6249f 60%,
-    #285aeb 90%
-  );
   --discord: #5865f2;
   --twitch: #7134e4;
 
@@ -285,9 +276,6 @@ input:checked + .slider:before {
 .wrapper .button:nth-child(2) .icon::before {
   background: var(--youtube2);
 }
-.wrapper .button:nth-child(3) .icon::before {
-  background: var(--instagram_gradient);
-}
 .wrapper .button:nth-child(4) .icon::before {
   background: var(--discord);
 }
@@ -324,9 +312,6 @@ input:checked + .slider:before {
 }
 .wrapper .button:nth-child(2) span {
   color: var(--youtube2);
-}
-.wrapper .button:nth-child(3) span {
-  color: var(--instagram);
 }
 .wrapper .button:nth-child(4) span {
   color: var(--discord);
