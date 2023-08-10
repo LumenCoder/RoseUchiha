@@ -18,13 +18,13 @@
 
   --b-accent: #ffffff;
   --s-button: #ff987e;
-  --name-color: #ffffff;
+  --name-color: #074650;
   --about-color: #ffa600;
 
   --glass-buttons: #ffffff0c;
 
   --b-background: #000000;
-  --background: linear-gradient(315deg, #000000 0%, #000000 74%);
+  --background: linear-gradient(315deg, #000000 0%, #535254 74%);
   /*  Speed of transition (Czech) */
   --rychlost: 0.5s;
   --target: _blank;
@@ -53,7 +53,7 @@ body {
   --b-background: #37a1a3;
   --b-accent: #074650;
   --s-button: #074650;
-  --name-color: #ffffff;
+  --name-color: #37a1a3;
   --about-color: #594a8c;
   --youtube: rgb(255, 0, 0);
 }
