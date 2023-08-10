@@ -17,9 +17,9 @@
   --twitch: #7134e4;
 
   --b-accent: #ffffff;
-  --s-button: #4c4c4c;
+  --s-button: #ff987e;
   --name-color: #ffffff;
-  --about-color: #656565;
+  --about-color: #ffa600;
 
   --glass-buttons: #ffffff0c;
 
@@ -51,8 +51,8 @@ body {
 .dark-mode {
   --background: linear-gradient(315deg, ##000000 0%, #535254 74%);
   --b-background: #37a1a3;
-  --b-accent: #ffffff;
-  --s-button: #553da3;
+  --b-accent: #074650;
+  --s-button: #074650;
   --name-color: #ffffff;
   --about-color: #594a8c;
   --youtube: rgb(255, 0, 0);
